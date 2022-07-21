@@ -20,6 +20,8 @@ h3{
   box-shadow: 0px 3px 50px #2f2f2f;
   display: flex;
   flex-direction: column;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 .card-top{
